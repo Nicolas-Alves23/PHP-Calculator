@@ -1,2 +1,2 @@
 # PHP-Calculator
-Simple php calculator
+Simple php calculator with tailwind styles
